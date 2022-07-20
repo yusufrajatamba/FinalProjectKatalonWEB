@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>share to fb</name>
+   <tag></tag>
+   <elementGuidId>fbf56fc3-77be-4a77-ba71-e3ce60383caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-240']/div/div/div[2]/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.getbowtied-single-product-share-wrapper > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eae4e675-e9a6-4863-b318-0813e10244ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//www.facebook.com/sharer/sharer.php?u=https://kotakoki.wijaysali.my.id/product/cap/</value>
+      <webElementGuid>385f9599-7e2b-40b5-99f7-5d3f7a7a3465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>4f3bb9ab-6b07-4f3c-957c-9c3851d5c177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-240&quot;)/div[@class=&quot;product_infos&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-5 columns&quot;]/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;getbowtied-single-product-share-wrapper&quot;]/a[1]</value>
+      <webElementGuid>8f3ecf17-b388-4587-b1de-0fa3810b6cb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-240']/div/div/div[2]/div/div[2]/a</value>
+      <webElementGuid>1c79fd6d-7a84-4cec-9460-1439a375f29a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/following::a[1]</value>
+      <webElementGuid>44696b98-885b-42c6-b380-a36cc2a2ee17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[2]/following::a[1]</value>
+      <webElementGuid>d671665b-6570-4b23-aa8e-c46c91319960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::a[3]</value>
+      <webElementGuid>4d1cc272-67ce-41ee-bdc7-dbc172b21a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional information'])[1]/preceding::a[4]</value>
+      <webElementGuid>a0331f66-0730-453d-838d-accb5039902e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '//www.facebook.com/sharer/sharer.php?u=https://kotakoki.wijaysali.my.id/product/cap/')]</value>
+      <webElementGuid>5ff64abd-06d5-4560-9a80-1303e0583de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/a</value>
+      <webElementGuid>71f54c4a-7a0d-4372-917d-d8b01288f1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//www.facebook.com/sharer/sharer.php?u=https://kotakoki.wijaysali.my.id/product/cap/']</value>
+      <webElementGuid>a9f4ab6c-772d-4b32-9d36-e53b8f934a84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

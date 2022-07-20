@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Additional information</name>
+   <tag></tag>
+   <elementGuidId>495a3907-1f04-4ee3-884e-d9ad3b1d97d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='tab-title-additional_information']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-title-additional_information > #tab-title-additional_information</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7b589953-9044-4db4-8840-b8a9e0fc2a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion-title additional_information_tab</value>
+      <webElementGuid>743aa4db-6b6c-4b79-823f-9bdfb369b4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#tab-additional_information</value>
+      <webElementGuid>356c2b5c-812d-492d-af9a-99eb45b0c877</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>tab-additional_information</value>
+      <webElementGuid>64a88842-68a2-4022-b571-593e1b2a0421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>949d6a19-5b23-4ec9-9ccb-13d7eaa4d5fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tab-title-additional_information</value>
+      <webElementGuid>1f7f9086-7652-43a9-bd60-72c922d40415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ddf496c4-7585-49f2-b0cf-fa2cc8fc6a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>23bdfbbc-fe4b-4ade-9d07-077f21c47b72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Additional information				</value>
+      <webElementGuid>094c0576-bd50-4198-acfc-f20ca9f022be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-240&quot;)/div[@class=&quot;product_infos&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 large-5 columns&quot;]/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;woocommerce-gb_accordion&quot;]/ul[@class=&quot;accordion&quot;]/li[@id=&quot;tab-title-additional_information&quot;]/a[@id=&quot;tab-title-additional_information&quot;]</value>
+      <webElementGuid>259846af-122b-43cd-b986-90f4ab365cbc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='tab-title-additional_information']</value>
+      <webElementGuid>d8886a4e-ec7f-43cf-8890-1593fbeebf0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tab-title-additional_information']/a</value>
+      <webElementGuid>af70cb45-3e3c-4980-8430-9730d0f53dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Additional information')]</value>
+      <webElementGuid>2fc4d2d0-ac4b-416b-87b8-bdd6e3fa35de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::a[1]</value>
+      <webElementGuid>722da92a-1ca1-458f-8e84-145e8d947a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/following::a[5]</value>
+      <webElementGuid>05df7439-a82b-4416-9911-b75bee8817cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='color'])[1]/preceding::a[1]</value>
+      <webElementGuid>7deaf928-a065-4031-9454-1310d0f952cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews (0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>af309a88-2947-41a1-9cd5-cd17ea03f5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional information']/parent::*</value>
+      <webElementGuid>75ef7117-f94c-4ab6-a988-2169abccad04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#tab-additional_information')]</value>
+      <webElementGuid>103bed76-4b6e-48cb-a135-5af7a4ebc9a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/ul/li[2]/a</value>
+      <webElementGuid>75746985-11f4-47be-9785-451219ad0e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#tab-additional_information' and @id = 'tab-title-additional_information' and (text() = '
+					Additional information				' or . = '
+					Additional information				')]</value>
+      <webElementGuid>d9b515dd-cc30-449e-b930-234542e98b49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

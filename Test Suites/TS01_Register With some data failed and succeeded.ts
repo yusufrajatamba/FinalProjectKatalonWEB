@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_Register With some data failed and succeeded</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>14b03509-0d7d-42e6-9558-5823ba1affa4</testSuiteGuid>
+   <testCaseLink>
+      <guid>2e57bc04-683c-45f8-84a0-098b5d9d0e79</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/USER ACCOUNT/REGISTER/UA003_Register with some data failed and succeeded</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1c460715-3300-488d-b20f-b59af1ceee13</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/account (1)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>1c460715-3300-488d-b20f-b59af1ceee13</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>bd96f82c-e354-4388-962a-cf91c9a39b1a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1c460715-3300-488d-b20f-b59af1ceee13</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>d88eafd2-9b13-4593-9ac7-8ab3581227de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1c460715-3300-488d-b20f-b59af1ceee13</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>phonenumber</value>
+         <variableId>de362046-0446-49f8-8a71-e645dc0a5455</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1c460715-3300-488d-b20f-b59af1ceee13</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>9918e711-8fa2-4be9-a494-d9959361c6a9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

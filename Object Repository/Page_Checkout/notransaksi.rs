@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>notransaksi</name>
+   <tag></tag>
+   <elementGuidId>52d26d7f-e0ed-4905-9747-8f33272539a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pt-2.font-semibold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8964910d-4f9f-42a8-a85e-2fb62d7ad0aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-2 font-semibold</value>
+      <webElementGuid>f6fafc87-c1a3-4357-a077-97c1b903b6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaksi #:woocommerce-xendit-517</value>
+      <webElementGuid>f55f23b4-cf1b-479b-9f10-4eab2af02ae4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[2]/div[@class=&quot;flex min-h-screen&quot;]/div[@class=&quot;pt-8 px-16 w-2/5 bg-gray-100 bg-opacity-50 divide-y divide-gray-200 divide-solid&quot;]/div[@class=&quot;pb-2&quot;]/span[@class=&quot;pt-2 font-semibold&quot;]</value>
+      <webElementGuid>9ea0f827-6107-4134-b919-25f4cecf4f18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>0f0891ea-6d57-4464-b294-6a721addb059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('4. Pilih ', '&quot;', 'Virtual Account Billing', '&quot;', '')])[1]/following::span[2]</value>
+      <webElementGuid>15fbc26c-2be1-4805-8361-dfc8e9cb386b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaksi']/parent::*</value>
+      <webElementGuid>bbe6322d-6a49-429d-ac7c-11cf59ea25cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>85970f5d-9bf7-41f1-bdea-4954cf078917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transaksi #:woocommerce-xendit-517' or . = 'Transaksi #:woocommerce-xendit-517')]</value>
+      <webElementGuid>3dd0bb55-1902-45b2-a58b-fd8ac3f678a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

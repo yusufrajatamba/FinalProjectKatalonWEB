@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS02_Register,Login,Logout</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>74582bb4-2cb2-4114-93f4-d49caeaede7e</testSuiteGuid>
+   <testCaseLink>
+      <guid>987a59bc-53b5-4193-8965-ee5abdf242cf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/USER ACCOUNT/REGISTER/UA001_New Register for TS</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eef6c577-ee27-40d9-b2d7-9ab37e5096e0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fdbbe992-9400-486d-b305-4921b8fad6a9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e0ad87a-a62c-4639-8783-fb28b70a8366</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/USER ACCOUNT/LOGOUT/UA008_LOGOUT For TS</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a73e8594-7954-4ccf-a126-841646ac4259</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/USER ACCOUNT/LOGIN/UA004_LOGIN use UA001 Data</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>258a96df-1007-4dc0-a488-237a35aa4e03</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a4f3bbb3-9ba2-4ea7-bc97-43edbcc19b23</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

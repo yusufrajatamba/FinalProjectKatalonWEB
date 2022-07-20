@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UA002_Failed Register With Same Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>691b5d43-313e-49b0-8557-f7e67f07767f</testCaseGuid>
+</TestCaseEntity>
