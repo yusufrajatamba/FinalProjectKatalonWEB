@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>simulasi pembayaran</name>
+   <tag></tag>
+   <elementGuidId>fda4988b-15a1-4a35-b720-b46460de4c33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a19f2937-e01b-493d-9bfd-ce8b79de2bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white font-semibold underline focus:outline-none</value>
+      <webElementGuid>146fbc18-4983-42c3-a2bf-44ed8d724e90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Klik disini untuk simulasi pembayaran dengan BNI</value>
+      <webElementGuid>de3590f1-2246-4f1e-bda7-3dab60a9f5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;px-4 sm:px-20 md:px-lg py-2 sticky sm:relative top-0 z-10 bg-red-500 font-sans text-center text-xs sm:text-sm font-semibold&quot;]/button[@class=&quot;text-white font-semibold underline focus:outline-none&quot;]</value>
+      <webElementGuid>91fd4327-fb02-4fb1-bedd-d75721c18e15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/button</value>
+      <webElementGuid>476b713c-188a-454e-9203-934e0df8027c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDLC'])[1]/preceding::button[1]</value>
+      <webElementGuid>36931df3-3377-4c78-8b65-f34ddae5f66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/preceding::button[1]</value>
+      <webElementGuid>4df7a8dd-fbfb-4537-8fac-91471d37a337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Klik disini untuk simulasi pembayaran dengan BNI']/parent::*</value>
+      <webElementGuid>14804ddd-45d6-4eec-a8f1-c1c8c69e7f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>37e449f7-c1da-40d5-871d-1bebb1c3f7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Klik disini untuk simulasi pembayaran dengan BNI' or . = 'Klik disini untuk simulasi pembayaran dengan BNI')]</value>
+      <webElementGuid>63133443-08a0-453d-b98c-b621e153c071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

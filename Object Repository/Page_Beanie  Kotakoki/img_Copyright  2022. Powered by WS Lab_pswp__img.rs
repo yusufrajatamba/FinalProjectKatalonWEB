@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Copyright  2022. Powered by WS Lab_pswp__img</name>
+   <tag></tag>
+   <elementGuidId>f024e039-98c5-4a75-89d1-f7aef3ce75c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2022/06/IMG-20220606-WA0002.jpg')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.pswp__img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>329823f4-e217-4cdc-9bc2-3856817de0ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pswp__img</value>
+      <webElementGuid>4e251020-d73b-4984-bb35-2fdcce4de8d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://kotakoki.wijaysali.my.id/wp-content/uploads/2022/06/IMG-20220606-WA0002.jpg</value>
+      <webElementGuid>37e115f2-3325-4b3b-a6aa-221a99032c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js_active vc_desktop vc_transform vc_transform&quot;]/body[@class=&quot;product-template-default single single-product postid-238 wp-embed-responsive theme-the-hanger woocommerce woocommerce-page woocommerce-js wpb-js-composer js-comp-ver-6.7.0 vc_responsive site-main-font header-layout-full content-layout-full  footer-layout-boxed&quot;]/div[@class=&quot;pswp pswp--supports-fs pswp--open pswp--animate_opacity pswp--notouch pswp--css_animation pswp--svg pswp--visible pswp--animated-in pswp--has_mouse&quot;]/div[@class=&quot;pswp__scroll-wrap&quot;]/div[@class=&quot;pswp__container&quot;]/div[@class=&quot;pswp__item&quot;]/div[@class=&quot;pswp__zoom-wrap&quot;]/img[@class=&quot;pswp__img&quot;]</value>
+      <webElementGuid>1801f462-4e60-4b59-8aed-4badb557fd54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://kotakoki.wijaysali.my.id/wp-content/uploads/2022/06/IMG-20220606-WA0002.jpg')])[2]</value>
+      <webElementGuid>1b5f078a-8247-406b-b4e0-b55c6343525a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/img</value>
+      <webElementGuid>50ce20eb-5405-4245-8af9-9f7779e19c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://kotakoki.wijaysali.my.id/wp-content/uploads/2022/06/IMG-20220606-WA0002.jpg']</value>
+      <webElementGuid>4db6c450-48bc-4bc2-ae4c-2049f2220982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
